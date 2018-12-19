@@ -1,0 +1,6 @@
+framework module Pods_DemologinAppUsingAPIcall {
+  umbrella header "Pods-DemologinAppUsingAPIcall-umbrella.h"
+
+  export *
+  module * { export * }
+}
